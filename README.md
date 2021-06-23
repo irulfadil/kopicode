@@ -1,2 +1,5 @@
 # kopicode
-landingpage
+- PHP
+- HTML
+- CSS
+- Javascript
