@@ -1,0 +1,3 @@
+[submodule "kopicode"]
+	path = kopicode
+	url = https://github.com/irulfadil/kopicode.git
